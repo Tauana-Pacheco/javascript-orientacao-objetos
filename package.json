@@ -1,0 +1,12 @@
+{
+  "name": "js-poo",
+  "version": "1.0.0",
+  "description": "curso de programação orientada a objetos com javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tauana",
+  "license": "ISC",
+  "type": "module"
+}
